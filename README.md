@@ -7,7 +7,8 @@
 Clone the repository
 
 ```bash
-Project repo: (https://github.com/sumitbondd/information-retrieval-system.git)
+Project repo:
+https://github.com/sumitbondd/information-retrieval-system.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
